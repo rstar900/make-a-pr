@@ -1,7 +1,0 @@
-NAME: SHREYAS MS
-
-BRANCH: MECHANICAL
-
-PROJECT: DSC Tic-Tack-Toe
-
-PROFILE PAGE: https://github.com/shreyas1807
