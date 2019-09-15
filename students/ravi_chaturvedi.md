@@ -6,3 +6,7 @@ I'm an engineering student in MSRIT
 I love to Travel
 I play fps games like csgo
 love to code!
+## Branch 
+Electronics and Instrumentation
+## github profile
+https://github.com/ravicii/
