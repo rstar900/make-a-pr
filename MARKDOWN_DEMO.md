@@ -1,17 +1,17 @@
-NAME - Chirag Sinha
+# Heading 1
 
-BRANCH - EIE
+## Heading 2
 
-Will come to CSE (my dream) soon probably next year thanks to branch change
+### Heading 3
 
-Eat Code Sleep Repeat
-
-
-[Follow link here](github.com/CStrike07)
+###### Heading 6
 
 
+[Follow link here](http://your.link/here)
 
+![My Image Name](http://link/to/image.jpg)  ##hi 
 
+_Italic text like this_
 
-**Coder Is Getting Compiled**
+**Bold text like this**
 
