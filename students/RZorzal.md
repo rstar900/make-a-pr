@@ -1,4 +1,4 @@
-# Aakash P
+# Ricardo Z Davila
 **BATCH**: 2024
 
 ## Academics 
