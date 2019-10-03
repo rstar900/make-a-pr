@@ -11,6 +11,9 @@
 - Wait for PR to merge
 - Celebrate ! 
 
+## Colabore more !!
+
+Feel free to change index.html let's do our better design to show the colaborators :)
 
 Read about markdown syntax here
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
